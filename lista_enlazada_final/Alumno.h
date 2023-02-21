@@ -7,10 +7,7 @@ public:
 	int edad = 0;
 	Alumno();
 	Alumno(int, char*);
-	void setNombre(char*);
-	void setEdad(int);
-	char getNombre(void);
-	int getEdad(void);
+	
 
 };
 
